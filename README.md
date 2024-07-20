@@ -1,75 +1,44 @@
-# microcontroller-game
+# Simon Says Dev Board Game
 
-Certainly! Here’s a simplified template for a `README.md` file with empty sections for you to fill in:
+Intro
 
-```markdown
-# IMC Trading Algorithm
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
 
-## Overview
+## Description
 
-Provide a brief description of your project here.
-
-## Features
-
-- **Feature 1**: 
-- **Feature 2**: 
-- **Feature 3**: 
+Description
 
 ## Installation
 
-To get started with the project, follow these steps:
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
-    ```
-
-2. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Configuration
-
-Configure the project using the following parameters:
-
-1. **Parameter 1**: 
-2. **Parameter 2**: 
-3. **Parameter 3**: 
-
-Example configuration:
-```python
-# Provide example configuration code here
-```
+This project is specific to the IMC Trading Challenge 2024 and is not intended for general use. The code is not functional outside of the IMC Trading simulator environment.
 
 ## Usage
 
-Explain how to use the project:
+usage
 
-1. **Step 1**: 
-2. **Step 2**: 
-3. **Step 3**: 
+## Configuration
 
-Example usage:
-```python
-# Provide example usage code here
-```
-
-## License
-
-This project is licensed under the [LICENSE_NAME](./LICENSE) license. See the [LICENSE](./LICENSE) file for details.
+config
 
 ## Contributing
 
-We welcome contributions to this project. If you have suggestions or improvements, please [open an issue](https://github.com/yourusername/your-repo/issues) or submit a pull request.
+contribute
 
-## Acknowledgments
+## License
 
-- **Acknowledgment 1**: 
-- **Acknowledgment 2**: 
+The license for this project is currently unspecified.
 
-## Contact
+## Contact Information
 
-For any questions or feedback, please contact [Your Name](mailto:your-email@example.com).
-```
+**Contributors:**
+
+Zackariya Taylor - zackariya.taylor@gmail.com
+
+Project Link: https://github.com/mngv7/microcontroller-game
