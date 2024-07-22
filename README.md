@@ -26,7 +26,7 @@ Unfortunately due to time constraints I was unable to complete this project and 
 
 This project received a grade of 24.8/30.
 
-**Emulator test cases (15/20):**
+**Emulator test cases (16/20):**
 
 - Gameplay Test (4/4)
 - Pushbutton Hold Test (0.5/0.5)
@@ -41,7 +41,7 @@ This project received a grade of 24.8/30.
 - Seed Test (0/0.8)
 - Mixed Input Test (0/0.6)
 
-**Manual Tests (9.8/10)**
+**Manual Tests (8.8/10)**
 
 - Code, comments and logical structure (2.5/3)
 - Use of pre-defined bitmasks and group configurations (1/1)
