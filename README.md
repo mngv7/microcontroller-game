@@ -49,27 +49,6 @@ This project received a grade of 24.8/30.
 - State machine usage (2/2)
 - Efficient coding practices (1.3/2)
 
-## Installation
-
-
-## Usage
-
-usage
-
-## Configuration
-
-config
-
-## Contributing
-
-contribute
-
-## License
-
-The license for this project is currently unspecified.
-
-## Contact Information
-
 **Contributors:**
 
 Zackariya Taylor - zackariya.taylor@gmail.com
